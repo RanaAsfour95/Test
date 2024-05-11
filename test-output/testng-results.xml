@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-11T12:02:37 EET" name="Default suite" finished-at="2024-05-11T12:02:39 EET" duration-ms="2285">
+    <groups>
+    </groups>
+    <test started-at="2024-05-11T12:02:37 EET" name="Default test" finished-at="2024-05-11T12:02:39 EET" duration-ms="2285">
+      <class name="JavaClassPacksge.javaclass22">
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:JavaClassPacksge.javaclass22@49872d67]" started-at="2024-05-11T12:02:37 EET" name="myBeforeTest" finished-at="2024-05-11T12:02:38 EET" duration-ms="1176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method signature="myTest()[pri:0, instance:JavaClassPacksge.javaclass22@49872d67]" started-at="2024-05-11T12:02:38 EET" name="myTest" finished-at="2024-05-11T12:02:39 EET" duration-ms="1042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+      </class> <!-- JavaClassPacksge.javaclass22 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
